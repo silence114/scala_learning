@@ -1,0 +1,2 @@
+- 本项目是自学scala过程中敲的零碎代码
+- 有些代码可能是复制的《Programing in Scala》第二版中的代码
